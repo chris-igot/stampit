@@ -1,7 +1,7 @@
 ## About
 
 Stampit is a photo sharing webapp that uses emojis for viewer responses. These emojis can be placed anywhere on the photo. It has a Java Spring backend with a React frontend.  
-See it deployed here: [https://stampit.chris-igot.link/](https://stampit.chris-igot.link/)
+See it deployed here: [https://stampit.chris-igot.link/](https://stampit.chris-igot.link/)  
 Docker: [https://hub.docker.com/repository/docker/chrisigot/stampit](https://hub.docker.com/repository/docker/chrisigot/stampit)
 
 ## Setup
