@@ -1,0 +1,6 @@
+[submodule "stampit-frontend"]
+	path = stampit-frontend
+	url = git@github.com:chris-igot/stampit-frontend.git
+[submodule "stampit-backend"]
+	path = stampit-backend
+	url = https://github.com/chris-igot/stampit-backend
